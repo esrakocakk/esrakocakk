@@ -9,8 +9,9 @@
 
 ### Connect with me:
 
-<img src="linkedin.svg" width="40px">
-
+<a href="https://www.linkedin.com/in/esrakocakk/">
+    <img src="linkedin.svg" width="40px"/>
+</a>
 
 ### Languages and Tools:
 
