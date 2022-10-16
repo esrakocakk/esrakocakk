@@ -2,11 +2,15 @@
 
 ### Welcome to my world of being a software developer
 
+<img src="68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966.gif" width="750px">
+
 - 📍 İstanbul/Turkey
 - 📫 How to reach me: esrakocak470@gmail.com
 
 ### Connect with me:
-[![LinkedIn Badge](https://img.shields.io/badge/-blue?style=square&labelColor=blue&logo=LinkedIn&logoColor=white&link=link)]([link](https://www.linkedin.com/in/esrakocakk/)) 
+
+<img src="linkedin.svg" width="40px">
+
 
 ### Languages and Tools:
 
